@@ -40,5 +40,6 @@
     <None Include="DLL_CPP.def">
       <Filter>Pliki źródłowe</Filter>
     </None>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>
